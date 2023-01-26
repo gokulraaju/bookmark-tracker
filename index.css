@@ -1,0 +1,58 @@
+body{
+    min-width: 500px;
+}
+
+#input-el{
+    width:100%;
+    box-sizing: border-box;
+    padding:10px;
+    border: 2px solid rgb(58, 225, 217);
+}
+#save-btn{
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(58, 225, 217);
+    border: none;
+    margin-right: 10px;
+}
+#save-tab{
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(58, 225, 217);
+    border: none;
+    margin-right: 10px;
+}
+#pop-btn{
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(58, 225, 217);
+    border: none;
+    margin-right: 10px;
+}
+#bookmarks{
+    list-style-type: none;
+    padding: 0;
+}
+a{
+    color:green;
+}
+li{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+#delete-btn{
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: rgb(12, 12, 12);
+    background-color: rgb(255, 254, 254);
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
